@@ -13,3 +13,7 @@ S = lim_Δt→0 (ℏ·ω)/(ΔV) · S_f
 ```
 
 Licença: CC BY-SA 4.0 · v1.0 · 24/11/2026 · [← organização](../README.md)
+
+---
+**Natureza do material:** ficção especulativa e método de investigação aberta. Não é instrução de engenharia pronta nem orientação de saúde; quem aplica aplica por sua conta — e registra, como manda o cânon: previsão antes, nulo lastreado depois.
+
